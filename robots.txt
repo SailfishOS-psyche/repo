@@ -1,0 +1,1 @@
+Sitemap: https://SailfishOS-psyche.github.io/repo/sitemap.xml
