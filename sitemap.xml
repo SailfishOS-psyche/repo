@@ -2,6 +2,10 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://SailfishOS-psyche.github.io/repo/.gitattributes</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SailfishOS-psyche.github.io/repo/4.6.0.13/</loc>
     <changefreq>monthly</changefreq>
   </url>
