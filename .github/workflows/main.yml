@@ -28,7 +28,7 @@ jobs:
           requirements: requirements.txt
 
       - name: Cache
-        uses: actions/cache@v2.1.2
+        uses: actions/cache@v4
         with:
           # A list of files, directories, and wildcard patterns to cache and restore
           path: |
