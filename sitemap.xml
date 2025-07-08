@@ -302,6 +302,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://SailfishOS-psyche.github.io/repo/5.0.0.67/psyche/.gitattributes</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SailfishOS-psyche.github.io/repo/5.0.0.67/psyche/community-adaptation-localbuild-ota-0.0.3-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
@@ -399,6 +403,10 @@
   </url>
   <url>
     <loc>https://SailfishOS-psyche.github.io/repo/5.0.0.67/psyche/droid-hal-version-psyche-doc-0.0.1-202505281017.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SailfishOS-psyche.github.io/repo/5.0.0.67/psyche/droid-system-psyche-1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
